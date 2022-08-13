@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JPantanal
 - 👀 I’m interested in Coding, Stocks, and reading Biographies, Science Fiction, Fantasy, and "the classics"
 - 🌱 I’m currently learning JavaScript, and CSS.
-- 💞️ I’m looking to collaborate on
 - 📫 How to reach me: Here on GitHub
 
 <!---
